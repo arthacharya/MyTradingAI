@@ -1,0 +1,2 @@
+# MyTradingAI
+AI Trading bot
